@@ -62,7 +62,7 @@ strong {
   max-width: fit-content;
   border-bottom: hsla(45, 100%, 40%, 1) 8px solid;
   margin-top: 0;
-  margin-bottom: 24px;
+  margin-bottom: 1.5rem;
   margin-left: -32px;
   font-size: 1.5rem;
 }
